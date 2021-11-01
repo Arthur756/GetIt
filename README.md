@@ -16,7 +16,6 @@
   <img src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/IPHONE-LIST-GETiT.png" alt="screenshot-2" width="200">
   <img src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/GETiT-MESAPRONTA.png" alt="screenshot-3" width="200">
   <img src="https://github.com/Arthur756/GetIt/blob/3b583f161c06d741dbfb0adc6509c17a524f4742/GETiT-LOGINSCREEN-PNG.png" alt="screenshot-4" width="200">
-  <img src="./assets/screenshots/ios/iPhone-X-5.png" alt="screenshot-5" width="150">
 </p>
 
 ---
@@ -30,7 +29,7 @@
 
 # Wait for less time
 
-<img alt="oss image" src="https://github.com/Arthur756/GetIt/blob/3b583f161c06d741dbfb0adc6509c17a524f4742/5233.jpg" width="220px">
+<img alt="oss image" src="https://github.com/Arthur756/GetIt/blob/3b583f161c06d741dbfb0adc6509c17a524f4742/5233.jpg" width="600px">
 
 
 ---
