@@ -49,17 +49,17 @@ INTERFACE
 ---
 <br/>
 ADVANTAGES
-![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(86)_edited.jpg)
+![5545](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(86)_edited.jpg)
 
 ---
 <br/>
 SCREENS
-![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(87)_edited.jpg)
+![43566](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(87)_edited.jpg)
 
 ---
 <br/>
 PRICE
-![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(88)_edited.jpg)
+![45654](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(88)_edited.jpg)
 
 
 # Functions
