@@ -46,70 +46,38 @@ This website was built to promote new web app "Get iT!" which allows clients of 
 INTERFACE
 ![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(84)_edited.jpg)
 
---
+---
 <br/>
 ADVANTAGES
 ![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(86)_edited.jpg)
 
---
+---
 <br/>
 SCREENS
 ![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(87)_edited.jpg)
 
---
+---
 <br/>
 PRICE
 ![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(88)_edited.jpg)
 
-## :hammer: Build it yourself
 
-Run the following commands:
-
-```bash
-# Clone this repo
-git clone https://github.com/shootismoke/mobile-app && cd shoot-i-smoke
-# Install dependencies
-yarn install
-
-# Copy the file that contains secrets
-cp app.example.json app.json
-
-# Run the app with Expo
-yarn start
-```
-
-The [Expo](https://expo.io) packager will show, and you can either:
-
--   install the Expo app, scan the displayed QR code, and run the app on your mobile phone directly.
--   open the Android simulator.
--   open the iOS simulator.
-
-#### Use your own API tokens
+# Functions
 
 All required API tokens are already pre-filled in `app.example.json`. If you want to use your own API tokens, then in `app.json`, replace all the placeholders with the ones you generated for yourself. For those that are optional, you can just put `null` (without quotes).
 
-| Service                  | Url                                                            | Comments                                                                    |
-| ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Sh\*\*t! I Smoke Backend | https://github.com/shootismoke/backend                         | Required. Pre-filled with a staging token.                                  |
-| World Air Quality Index  | http://aqicn.org/api/                                          | Required. You can use the public one in `app.example.json` for development. |
-| Google Maps for iOS      | https://developers.google.com/maps/documentation/ios-sdk/start | Optional in development.                                                    |
-| Google Maps for Android  | https://developers.google.com/maps/documentation/android-api/  | Optional in development.                                                    |
-| Sentry Bug Tracking      | https://sentry.io                                              | Optional.                                                                   |
-| Amplitude Analytics      | https://amplitude.com                                          | Optional. Note: we **never** track PII.                                     |
+| Functions                | Description                                                    | 
+| ------------------------ | -------------------------------------------------------------- |
+| Book a table             | With Get iT! you can book your own table directly from your smartphone     |
+| View line | You can access the virtual line in realtime                                        |
+| Access menu     | Acess the menu of the restaurant directly from your smartphone |
+| Order food | Order the food while you wait your table release  |
+| Time     | View the timer of wait                                             |
 
 ## :raising_hand: Contribute
 
-If you find a bug, or if you have an idea for this app, please [file an issue here](https://github.com/shootismoke/mobile-app/issues). We really appreciate feedback and inputs!
+If you find a bug, or if you have an idea for this app, please file an issue here.
 
-🇬🇧🇫🇷🇪🇸🇨🇳 You may also contribute with translations with our online tool [POEditor](https://poeditor.com/join/project/iEsj0CSPGX). If you need context for some terms, here are [some screenshots](https://nx1394.your-storageshare.de/s/grS6CZJGapRSH6i).
-
-For code contribution, the codebase heavily relies on functional programming principles via the [`fp-ts`](https://github.com/gcanti/fp-ts) library. The codebase itself is quite simple, so even if you're beginner to functional programming, it shouldn't be hard to follow along. You can start with these [easy tasks](https://github.com/shootismoke/mobile-app/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
-
-More information on contributing [here](./CONTRIBUTING.md).
-
-## :microscope: Tests
-
-The codebase unfortunately isn't much covered by tests. Check out the `*.spec.ts` files in the project for tests. If you're interested to help out, have a look at [issue #19](https://github.com/shootismoke/mobile-app/issues/19).
 
 # Client Space
 
