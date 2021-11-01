@@ -2,7 +2,7 @@
 
 
 <p align="center" style="background-color: #F8A65D;">
-    <img alt="oss image" src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/LOGO-GETiT-PNG.png" width="350px">
+    <img alt="oss image" src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/LOGO-GETiT-PNG.png" width="180px">
     <h1 align="center">Forget pagers and endless lines</h1>
 </p>
 <h4 align="center">The best tool to automate service in restaurants </h4>
@@ -15,19 +15,27 @@
   <img src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/iPhone%20X-XS-11%20Pro%20%E2%80%93%207.jpg" alt="screenshot-1" width="200">
   <img src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/IPHONE-LIST-GETiT.png" alt="screenshot-2" width="200">
   <img src="https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/GETiT-MESAPRONTA.png" alt="screenshot-3" width="200">
-  <img src="./assets/screenshots/ios/iPhone-X-4.png" alt="screenshot-4" width="150">
+  <img src="https://github.com/Arthur756/GetIt/blob/3b583f161c06d741dbfb0adc6509c17a524f4742/GETiT-LOGINSCREEN-PNG.png" alt="screenshot-4" width="200">
   <img src="./assets/screenshots/ios/iPhone-X-5.png" alt="screenshot-5" width="150">
 </p>
 
 ---
 
-#Forget pagers
+# Forget pagers
 
 ![pagers](https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/NO%20PAGER-SYMBOL.png)
 
+
 ---
 
-#QR code
+# Wait for less time
+
+<img alt="oss image" src="https://github.com/Arthur756/GetIt/blob/3b583f161c06d741dbfb0adc6509c17a524f4742/5233.jpg" width="220px">
+
+
+---
+
+# QR code
 
 ![code](https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/GETiT-QRCODE-BOARD.png)
 
@@ -91,7 +99,7 @@ More information on contributing [here](./CONTRIBUTING.md).
 
 The codebase unfortunately isn't much covered by tests. Check out the `*.spec.ts` files in the project for tests. If you're interested to help out, have a look at [issue #19](https://github.com/shootismoke/mobile-app/issues/19).
 
-#Client Space
+# Client Space
 
 ![wall](https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/Prancheta%201%20%E2%80%93%2012.jpg)
 
