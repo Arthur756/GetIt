@@ -1,0 +1,225 @@
+*{ margin: 0; 
+    padding:0 ; 
+    box-sizing: border-box; 
+    font-family: 'Russo One', sans-serif;}
+
+a{ text-decoration: none;}
+
+a :hover{ text-decoration: none;}
+
+li{ list-style: none;}
+
+p{
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+}
+
+.extra-div h2{
+    font-size: 0.9rem;
+    margin: 20px 0 15px 0;
+    font-weight: bold;
+    line-height: 1.1;
+    word-spacing: 4px;
+}
+
+.header{
+    width: 100%;
+    height: 100vh;
+    background-image:url('https://images.unsplash.com/photo-1503543924343-53d8f2d97bf4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    clip-path: polygon(100% 0%, 100% 75%, 50% 100%, 0 75%, 0 0);
+    position: relative;
+}
+
+.header:before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+    opacity: .3;
+    z-index: -1;
+    background: linear-gradient(to right, rgb(255, 170, 170) 0%, rgb(255, 125, 125) 0%, rgb(160, 28, 28) 100%);
+}
+
+.navbar:before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+    opacity: .3;
+    z-index: -1;
+    background: linear-gradient(to right, rgb(255, 170, 170) 0%, rgb(255, 125, 125) 0%, rgb(160, 28, 28) 100%);
+}
+
+.nav-item a{
+    color:#fff!important;
+    font-weight: bold;
+}
+
+.header-section{
+    width: 100%;
+    height: inherit;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.center-div{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+.header-buttons a{
+    border: 1px solid #fff;
+    border-radius: 100px;
+    margin: 0 5px;
+    padding: 12px 35px;
+    outline: none;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+
+}
+
+.header-buttons a:hover{
+    color: rgb(255, 0, 0);
+    background: #fff;
+    text-decoration: none;
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0);
+
+}
+
+.center-div p{
+    font-size: 1.3rem;
+    padding:  10px 0 20px 0;
+    color: white;
+}
+
+/**************** extra header div css start ********************/
+
+.header-extradiv{
+    width: 100%;
+    height: auto;
+    margin: 100px 0;
+    text-align: center;
+}
+
+.extra-div{
+    background: #fff;
+    border: medium none;
+    padding: 50px!important;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+.extra-div:hover{
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+    transform: translateY(-20px);
+}
+/**************** extra header div css end ********************/
+
+/**************** price div css starts ********************/
+
+.pricing {
+    width: 100%;
+    height: 100vh;
+    padding: 50px;
+    position: relative;
+}
+
+.pricing:before{
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background: linear-gradient(160deg, rgb(160, 28, 28) 60%, #fff 0%);
+}
+
+.money {
+    font-size: 40px;
+    line-height: 1;
+    color: black;
+}
+
+.card {
+    transition: 0.4s ease;
+}
+
+.card-header {
+    font-size: 1.6rem;
+    font-weight: bold;
+    background: white !important;
+    padding: 25px 9 !important;
+}
+
+.card-body {
+    padding: 30px 0px !important;
+}
+
+.card-body li{
+    margin: 10px 0;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.6;
+    color: black;
+}
+
+.card-footer {
+    background: white !important;
+    padding: 30px 0px !important;
+}
+
+.card-footer a{
+    border: 1px solid rgb(228, 19, 19);
+    border-radius: 100px;
+    margin: 0 5px;
+    padding: 12px 35px;
+    outline: none;
+    color: rgb(224, 36, 36);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    text-align: center;
+
+}
+
+.card:hover .card-footer a {
+    color: rgb(255, 255, 255);
+    background: rgb(224, 23, 23);
+    text-decoration: none;
+    box-shadow: 0 0 20px 0 rgb(224, 89, 89);
+
+}
+
+.card:hover {
+    transform: translateY(-20px);
+    box-shadow: 0 0 20px 0 rgb(0, 0, 0);
+}
+
+.card:hover .card-header, .card:hover .money {
+    color: red;
+}
+
+.card-second {
+    transform: translateY(-20px);
+}
+
+
+/**************** price div css ends ********************/
