@@ -39,14 +39,27 @@
 ![code](https://github.com/Arthur756/GetIt/blob/5cc11bcb49173b91913cf1102cd106bc15dc4dbe/GETiT-QRCODE-BOARD.png)
 
 
-## :iphone: Try it on Expo
+## 🖥️: Website
 
-This app is bootstrapped with [Expo](https://expo.io), you can download the Expo app on the [App Store](https://itunes.apple.com/us/app/expo-client/id982107779) or [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent), and enter the url provided below. We have 2 release channels:
+This website was built to promote new web app "Get iT!" which allows clients of restaurants enter in line by their smartphone more easily and fast. The app is connected to a QR code to access the app by the browser.
 
-| Release Channel                                                                           | Version | Description                                                                 | Url                                                                           |
-| ----------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Production](https://exp.host/@amaurymartiny/shootismoke?release-channel=production-v1.8) | v1.8.10 | Same version as Sh\*\*t! I Smoke on the App Store and Play Store.           | `https://exp.host/@shootismoke/mobile-app?release-channel=production-v1.8.10` |
-| [Staging](https://exp.host/@amaurymartiny/shootismoke)                                    | v1.8.10 | Latest version currently in development: newest features, may contain bugs. | `https://exp.host/@shootismoke/mobile-app`                                    |
+INTERFACE
+![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(84)_edited.jpg)
+
+--
+<br/>
+ADVANTAGES
+![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(86)_edited.jpg)
+
+--
+<br/>
+SCREENS
+![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(87)_edited.jpg)
+
+--
+<br/>
+PRICE
+![code](https://github.com/Arthur756/GetIt/blob/1272157adb2e16bdc00cc1220d47db9201d52ead/Captura%20de%20Tela%20(88)_edited.jpg)
 
 ## :hammer: Build it yourself
 
